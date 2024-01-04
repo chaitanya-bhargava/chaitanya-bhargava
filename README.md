@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/chaitanya-bhargava/langs)](https://githubtrends.io)
+
 <!--
 **chaitanya-bhargava/chaitanya-bhargava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

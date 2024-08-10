@@ -9,4 +9,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chaitanya-bhargava&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=chaitanya-bhargava&limit=5&theme=city_lights&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=chaitanya-bhargava&limit=5&theme=catppuccin&combine_all_yearly_contributions=true)
